@@ -1,7 +1,14 @@
 ## 💼 Smart Resume Analyzer
 
-A simple web app to analyze resumes and show skill match for different job roles.
+A simple web app that analyzes a resume and shows how well it matches a selected job role.
 
-**Tech:** HTML, CSS, JavaScript  
-**Features:** Resume upload, skill match %, missing skills  
-**Deployment:** GitHub Pages
+### ✨ Features
+- Upload resume (text file)
+- Select job role (Frontend / Data / Cloud)
+- Shows skill match percentage
+- Suggests missing skills & improvement tips
+
+### 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
